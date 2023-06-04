@@ -1,0 +1,7 @@
+1. It's recommended that you will have the latest node version and next.js package installed globally on your pc.
+2. Open the client and the server in your IDE.
+3. On the server project, on the terminal, load the packages by: 'npm i'.
+4. On the client project, on the terminal, load the packages by: 'npm i'.
+5. On the server project, on the terminal, run the project by: 'npm run dev'.
+6. On the client project, on the terminal, run the project by: 'npm run dev'.
+7. Let the show begin!

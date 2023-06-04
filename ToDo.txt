@@ -1,0 +1,19 @@
+What would I do If I had more time?
+===================================
+-Server:
+-Write the project in TypeScript, since it was much faster for me to write in pure JavaScript.
+-Use Redis or log files persistence to keep the users data. I simulated schema and where needed to keep the data.
+-Integration tests by Chai / Mocha / Supertest.
+-If needed the CRUD for the users to be updated from the server after for each request - Can be done also.
+-Fix ESLint bugs.
+
+-Client:
+-Missing filter by country.
+-Missing validation of errors on the client in case of error from the server on the CRUD operations.
+-Fix a few minor bugs.
+-Seperate more the useUsersHandlers.hook.
+-More documents inside each function.
+-Client Tests for each component.
+-Use CDN to load the images, it's not efficient right now.
+-Of course, deploy the project on Vercel / AWS.
+-Fix ESLint bugs.

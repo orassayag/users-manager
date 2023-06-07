@@ -108,5 +108,4 @@ export default class UserSchema {
     .map(({ field, fieldPath }) => ({ field, fieldPath }));
 
   static userFieldsValidation = Object.keys(this.user);
-
 }

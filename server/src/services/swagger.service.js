@@ -1,6 +1,6 @@
 import swaggerJsdoc from 'swagger-jsdoc';
 import swaggerUi from 'swagger-ui-express';
-import packageJSON from '../../package.json' assert { type: "json" };
+import packageJSON from '../../package.json' assert { type: 'json' };
 import CustomError from '../custom/error.custom.js';
 
 export default class SwaggerService {
